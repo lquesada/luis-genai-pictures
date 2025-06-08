@@ -1,4 +1,8 @@
-I trained a Flux.1 dev LoRA of myself as a subject. This is a portfolio of some pictures I generated using it.
+I trained a Flux.1 dev LoRA with myself as a subject.
+
+This is a portfolio of some pictures I generated using it.
+
+(Not sharing the LoRA nor the source images, sorry :))
 
 ![Image](imgs/01.jpg)
 
